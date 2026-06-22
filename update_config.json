@@ -2,7 +2,7 @@
   "yt-dlp": {
     "version": "2026.06.22",
     "version_code": 99999999,
-    "github_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.06.22/yt-dlp.exe",
-    "md5": "D8E5343B0FE87635D08465B203E7CC6E"
+    "github_url": "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe",
+    "md5": "5AD6913CDDC4DDD91EC2E86B41154AB1"
   }
 }
